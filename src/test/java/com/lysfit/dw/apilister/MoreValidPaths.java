@@ -21,6 +21,11 @@ public class MoreValidPaths {
 
 	}
 
+	@Path("/wrong")
+	public void wrong() {
+
+	}
+
 	@PUT
 	public void put() {
 	}
